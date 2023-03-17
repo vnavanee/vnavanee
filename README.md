@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Narra
 - 👀 I’m interested in Data Science
-- 🌱 I hold a professional certification in AI & ML from UC Berkeley
+- 🌱 I hold a professional certificate in AI & ML from UC Berkeley
 - 💞️ I’m looking to collaborate on health related AI
 - 📫 How to reach me vivekbiz@gmail.com
 
